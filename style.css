@@ -17,6 +17,10 @@
     margin: 0 16px;
     font-size: 25px;
 }
-.manga1{
+.manga{
     width: -50%;
+}
+
+.liv_img {
+    width: 30%;
 }
