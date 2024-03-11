@@ -25,4 +25,10 @@
     width: 50%;
 }
 .livraria {
-    background-image: linear-gradient(#424242 #9593)
+    background-image: linear-gradient(#424242, #9593);
+color: #4344;
+ display: flex;
+justify-content: center;
+align-items: center;
+padding: 24px, 0;
+}
