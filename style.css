@@ -24,9 +24,10 @@
 .liv_img {
     width: 25%;
 }
+
 .livraria {
-    background-image: linear-gradient( rgb(251, 153, 16,) rgb(100, 100, 100, ) );
-color: #4344;
+    background-image: linear-gradient( rgb(251, 153, 16,) rgb(254, 96, 22) );
+color: rgba(255, 255, 255, 0.267);
  display: flex;
 justify-content: center;
 align-items: center;
